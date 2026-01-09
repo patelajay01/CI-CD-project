@@ -1,9 +1,9 @@
 version: 0.0
-os: linux
+os: ubuntu
 
 files:
   - source: /
-    destination: /home/ec2-user/app
+    destination: /home/ubuntu/app
 
 hooks:
   BeforeInstall:
