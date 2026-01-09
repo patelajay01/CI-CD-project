@@ -2,6 +2,6 @@
 
 echo "Installing Node.js dependencies..."
 
-cd /home/ec2-user/app
+cd /home/ubuntu/app
 
 npm install
